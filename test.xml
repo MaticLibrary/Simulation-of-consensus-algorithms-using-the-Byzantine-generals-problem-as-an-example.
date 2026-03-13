@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="d0" for="node" attr.name="attack" attr.type="boolean"><default>true</default></key>
+<key id="d1" for="node" attr.name="traitor" attr.type="boolean"><default>false</default></key>
+<graph id="G" edgedefault="undirected">
+<edge id="0" source="1" target="3"></edge>
+<edge id="1" source="1" target="5"></edge>
+<node id="1"><data key="d0">true</data><data key="d1">false</data></node>
+<node id="3"><data key="d0">true</data><data key="d1">false</data></node>
+<node id="5"><data key="d0">true</data><data key="d1">false</data></node>
+</graph></graphml>
